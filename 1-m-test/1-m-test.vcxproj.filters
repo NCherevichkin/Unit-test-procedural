@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="tests.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{f6f8496e-f871-4a2b-bb4c-4925addf617a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="TestFile.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="ActualWriteFile.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="ExpectedWriteFile.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="ActualFilteredWriteFile.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="ExpectedFilteredWriteFile.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

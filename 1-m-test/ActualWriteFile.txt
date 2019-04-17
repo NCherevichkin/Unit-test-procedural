@@ -1,0 +1,4 @@
+Container contains 3 elements.
+0: It is Box: x = 10, y = 20, z = 30, Melting point = 100 °C, V = 6000
+1: It is Sphere: r = 25, Melting point = 228 °C, V = 65416.7
+2: It is Tetrahedron: a = 18, Melting point = 1996 °C, V = 687.308

@@ -1,0 +1,4 @@
+Only box.
+0: It is Box: x = 10, y = 20, z = 30, Melting point = 100 °C, V = 6000
+2: It is Box: x = 69, y = 96, z = 228, Melting point = 200 °C, V = 1.51027e+06
+4: It is Box: x = 192, y = 168, z = 1, Melting point = 300 °C, V = 32256
